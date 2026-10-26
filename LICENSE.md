@@ -19,6 +19,8 @@ Key highlights include:
 - 🌟 **Transformation Farm** — triggers and masters every transformation through automated combat
 - 🏎️ **Race Unlock** — completes the full race unlock questline automatically for any target race
 
+### [⬇️ Download DBZ Final Stand Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
